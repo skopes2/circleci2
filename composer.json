@@ -1,0 +1,11 @@
+{
+    "name": "circleci2/skopes",
+    "description": "Skopes in circleci version 2",
+    "authors": [
+        {
+            "name": "Vivek Mahajan",
+            "email": "mahajanis4u@gmail.com"
+        }
+    ],
+    "require": {}
+}
